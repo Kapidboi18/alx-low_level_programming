@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- *
- * main -prints putchar
- *
+ * main -prints putchar*
  * Discription: prints _putchar
  * Return: (0) (success)
  */
@@ -16,8 +14,6 @@ _putchar('h');
 _putchar('a');
 _putchat('r');
 _putchar('\n');
-Return ('0');
+Return('0');
 }
-!/bin/bash
-su putchar
 
