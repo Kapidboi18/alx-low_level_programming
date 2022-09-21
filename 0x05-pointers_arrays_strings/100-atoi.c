@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 /**
@@ -15,8 +16,8 @@ int _strlen(char *s)
 		len++;
 		s++;
 	}
-	return (len);
 
+	return (len);
 }
 
 /**
@@ -61,7 +62,7 @@ int find_sign(char *s)
 /**
  * _atoi - convert string to int
  * @s: string to convert
- * Return: intege
+ * Return: integer
  */
 
 int _atoi(char *s)
@@ -99,3 +100,7 @@ int _atoi(char *s)
 
 	return (num * sign);
 }
+
+
+
+
