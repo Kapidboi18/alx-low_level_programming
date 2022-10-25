@@ -1,6 +1,6 @@
 /*
  * File: 100-reverse_listint.c
- * Author: Ukonu, Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
