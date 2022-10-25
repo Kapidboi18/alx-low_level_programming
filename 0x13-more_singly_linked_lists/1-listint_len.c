@@ -1,6 +1,6 @@
 /*
  * File: 1-listint_len.c
- * Auth: Ukonu, Divine Chisom
+ * Auth: Clinton Siloko
  */
 
 #include "lists.h"
