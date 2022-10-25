@@ -1,6 +1,6 @@
 /*
  * File: 101-print_listint_safe.c
- * Author: Ukonu, Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
