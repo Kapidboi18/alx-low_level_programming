@@ -3,7 +3,7 @@
 
 /*
  * File: lists.h
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  * Desc: Header file containing prototypes and definitions for all functions
  *       and types written in the 0x13-more_singly_linked_lists directory.
  */
