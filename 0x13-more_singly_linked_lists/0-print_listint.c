@@ -1,6 +1,6 @@
 /*
  * File: 0-print_listint.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
