@@ -1,6 +1,6 @@
 /*
  * File: 8-sum_listint.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
