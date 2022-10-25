@@ -1,6 +1,6 @@
 /*
  * File: 3-add_nodeint_end.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  *
  */
 
