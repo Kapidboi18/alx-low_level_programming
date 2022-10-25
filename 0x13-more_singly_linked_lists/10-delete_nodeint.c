@@ -1,6 +1,6 @@
 /*
  * File: 10-delete_nodeint.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
