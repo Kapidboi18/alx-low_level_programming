@@ -1,6 +1,6 @@
 /*
  * File: 102-free_listint_safe.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko 
  */
 
 #include "lists.h"
