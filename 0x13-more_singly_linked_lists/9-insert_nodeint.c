@@ -1,6 +1,6 @@
 /*
  * File: 9-insert_nodeint.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
