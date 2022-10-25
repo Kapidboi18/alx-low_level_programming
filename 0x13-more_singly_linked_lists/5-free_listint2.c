@@ -1,6 +1,6 @@
 /*
  * File: 5-free_listint2.c
- * Author: Ukonu Divine Chisom
+ * Author: Clinton Siloko
  */
 
 #include "lists.h"
